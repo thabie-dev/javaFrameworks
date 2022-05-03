@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(52, 167, 180);
+  }
+  
+  .center{
+      padding-right: 50em;
+      margin-left: 500px;
+  }
+  .title{
+      font-size: 30px;
+      display: block;
+      text-align: center;
+      
+  }
